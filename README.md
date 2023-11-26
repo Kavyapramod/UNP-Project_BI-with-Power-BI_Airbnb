@@ -11,10 +11,12 @@ Collaborated with Stakeholders to understand their requirements and translated t
 Ardently involved in Creating Data Model, Implemented Data Transformations and Calculations using DAX for accurate analysis and Reporting.
 
 Step 1 - Data Transformation:
+
 (i) Employed DAX to compute Price Ranges.
 (ii) Eliminated null values to ensure data accuracy for analysis purposes.
 
 Step 2 - Dashboard Creation:
+
 (i) Utilized a Pie chart for visualization of room type preferences and Price ranges.
 (ii) Employed a Bar chart to illustrate the average minimum nights stayed and ratings based on different locations.
 (iii) Integrated a Map visualization to showcase the geographical distribution of Airbnb listings.
