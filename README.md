@@ -10,17 +10,17 @@ Ardently involved in Creating Data Model, Implemented Data Transformations and C
 
 Step 1 - Data Transformation:
 
-(i) Employed DAX to compute Price Ranges.
-(ii) Eliminated null values to ensure data accuracy for analysis purposes.
+           (i) Employed DAX to compute Price Ranges. 
+           (ii) Eliminated null values to ensure data accuracy for analysis purposes.
 
 Step 2 - Dashboard Creation:
 
-(i) Utilized a Pie chart for visualization of room type preferences and Price ranges.
-(ii) Employed a Bar chart to illustrate the average minimum nights stayed and ratings based on different locations.
-(iii) Integrated a Map visualization to showcase the geographical distribution of Airbnb listings.
-(iv) Implemented a Line graph to depict the trend and fluctuations in average prices across multiple years.
-(v) Integrated Cards to present essential Key Performance Indicators (KPIs) such as Total Revenue, Aggregate Ratings, Number of hosts, Geographical spread, and Average host listings.
-(vi) Incorporated Slicers as interactive filters, enabling dynamic data filtration as per specific requirements.
+          (i) Utilized a Pie chart for visualization of room type preferences and Price ranges. 
+          (ii) Employed a Bar chart to illustrate the average minimum nights stayed and ratings based on different locations.
+          iii) Integrated a Map visualization to showcase the geographical distribution of Airbnb listings.
+          (iv) Implemented a Line graph to depict the trend and fluctuations in average prices across multiple years.
+          (v) Integrated Cards to present essential Key Performance Indicators (KPIs) such as Total Revenue, Aggregate Ratings, Number of hosts, Geographical spread, and Average host listings.
+          (vi) Incorporated Slicers as interactive filters, enabling dynamic data filtration as per specific requirements.
 
 
 PBIX file link: https://drive.google.com/file/d/1yCMNlUcW7DrY2q9_cjamMP6GOKlZ09oh/view?usp=sharing
